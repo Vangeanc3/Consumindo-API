@@ -1,0 +1,17 @@
+C:\Users\est_imartins\Desktop\Consumo\Consumo\bin\Debug\net6.0\Consumo.exe
+C:\Users\est_imartins\Desktop\Consumo\Consumo\bin\Debug\net6.0\Consumo.deps.json
+C:\Users\est_imartins\Desktop\Consumo\Consumo\bin\Debug\net6.0\Consumo.runtimeconfig.json
+C:\Users\est_imartins\Desktop\Consumo\Consumo\bin\Debug\net6.0\Consumo.dll
+C:\Users\est_imartins\Desktop\Consumo\Consumo\bin\Debug\net6.0\ref\Consumo.dll
+C:\Users\est_imartins\Desktop\Consumo\Consumo\bin\Debug\net6.0\Consumo.pdb
+C:\Users\est_imartins\Desktop\Consumo\Consumo\obj\Debug\net6.0\Consumo.csproj.AssemblyReference.cache
+C:\Users\est_imartins\Desktop\Consumo\Consumo\obj\Debug\net6.0\Consumo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\est_imartins\Desktop\Consumo\Consumo\obj\Debug\net6.0\Consumo.AssemblyInfoInputs.cache
+C:\Users\est_imartins\Desktop\Consumo\Consumo\obj\Debug\net6.0\Consumo.AssemblyInfo.cs
+C:\Users\est_imartins\Desktop\Consumo\Consumo\obj\Debug\net6.0\Consumo.csproj.CoreCompileInputs.cache
+C:\Users\est_imartins\Desktop\Consumo\Consumo\obj\Debug\net6.0\Consumo.dll
+C:\Users\est_imartins\Desktop\Consumo\Consumo\obj\Debug\net6.0\ref\Consumo.dll
+C:\Users\est_imartins\Desktop\Consumo\Consumo\obj\Debug\net6.0\Consumo.pdb
+C:\Users\est_imartins\Desktop\Consumo\Consumo\obj\Debug\net6.0\Consumo.genruntimeconfig.cache
+C:\Users\est_imartins\Desktop\Consumo\Consumo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\est_imartins\Desktop\Consumo\Consumo\obj\Debug\net6.0\Consumo.csproj.CopyComplete
